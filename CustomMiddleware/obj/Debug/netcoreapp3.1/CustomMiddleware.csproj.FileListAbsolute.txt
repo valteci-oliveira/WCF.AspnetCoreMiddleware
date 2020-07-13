@@ -1,0 +1,9 @@
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\bin\Debug\netcoreapp3.1\CustomMiddleware.deps.json
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\bin\Debug\netcoreapp3.1\CustomMiddleware.dll
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.csprojAssemblyReference.cache
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.AssemblyInfoInputs.cache
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.AssemblyInfo.cs
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\bin\Debug\netcoreapp3.1\CustomMiddleware.pdb
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.dll
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.pdb
+C:\work-folders\projects-study\WCF.AspnetCoreMiddleware\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.csproj.CoreCompileInputs.cache
